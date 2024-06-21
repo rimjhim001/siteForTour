@@ -1,0 +1,65 @@
+html{
+    background-color: #afaeac;
+    border: 42px groove black;
+    border-radius: 20px;
+    font-family: cursive;
+}
+.btn{
+color: rgb(247, 248, 245);
+  background-color: rgb(9, 6, 1);
+  padding: 6px;
+  border:8px solid black;
+  border:none;
+  cursor: pointer;
+  font-size: 12px;
+  border-radius:24px;
+  font-weight: bold;
+}
+a{
+  text-decoration: none
+}
+a:hover{
+  color: rgb(9, 216, 26);
+  background-color: rgb(245, 244, 244);
+}
+p{
+  color: aliceblue;
+  background-color: black;
+  margin-top: 20px;
+  font: size 50px;;
+  border-radius: 27px;
+  padding: 2px;
+  
+
+}
+fieldset{
+  border: 12px groove black;
+  border-radius: 50px;
+}
+fieldset img{
+border: 8px groove black;
+width: 700px;
+border-radius: 50px;
+}
+h3{
+  font-size: xx-large;
+}
+#R{
+  border: 8px groove black;
+  border-radius: 50%;
+}
+input[type="text"]{
+  border-radius: 30px;
+}
+input[type="tel"]{
+  border-radius: 30px;
+}
+input[type="Email"]{
+  border-radius: 30px;
+}
+input[type="password"]{
+  border-radius: 30px;
+}
+
+
+
